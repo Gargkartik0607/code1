@@ -1,1 +1,2 @@
 print ('kartik')
+print ('kartik')
